@@ -1,4 +1,18 @@
 .title {
+    color: darkgray;
     text-align: center;
-    font-size:  60px;
+    font-size:  80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: overline underline darkgray;
+}
+
+.catagories {
+    box-sizing: border-box;
+    width: 200px;
+    height: 75px;
+    list-style-type: none;
+    background-color: darkgray;
+    border: 5px solid red;
+    
+
 }
